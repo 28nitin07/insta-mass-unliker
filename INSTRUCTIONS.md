@@ -16,7 +16,7 @@ brew install jq   # macOS
 sudo apt install jq  # Linux
 ```
 
-# Step 3: Run Shell Script (SAFE + RATE LIMITED)
+# Step 3: Run Shell Script 
 ```bash
 chmod +x mass-unlike.sh
 ./mass-unlike.sh
